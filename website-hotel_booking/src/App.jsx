@@ -9,7 +9,7 @@ function App() {
     <div className="home-page">
 
       <div className="header">
-        <img src="https://img.freepik.com/free-photo/climate-landscape-paradise-hotel-sunset_1203-5734.jpg" alt="" className="header-bg"/>
+        <img src="https://oriolelandscaping.com/wp-content/uploads/2024/10/oriole-royal-hotel-8-1024x683.jpg" alt="" className="header-bg"/>
 
         <nav className="navigationbar">
           <div className="page-logo">
